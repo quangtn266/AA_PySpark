@@ -1,0 +1,2 @@
+pip install pyspark
+pip install pyspark[sql,ml,mllib]
