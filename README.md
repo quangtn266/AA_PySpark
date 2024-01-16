@@ -1,7 +1,9 @@
 # AA_PySpark.
 Mini projects for PySpark (Apache Spark).
 
-The repo is used for studying Apache Spark (Pyspark). It's from "Advanced Analytics with PySprak".
+The repo is used for studying Apache Spark (Pyspark). 
+1) Advanced Analytics with PySprak.
+2) Scaling Machine Learning with Spark.
 
 ## Configuration.
 
